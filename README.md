@@ -24,6 +24,8 @@ Aquí hay algunas de las herramientas, lenguajes y frameworks con los que disfru
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/astro-%230C111A.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
 </div>
 
 #### 🗄️ Bases de Datos, ERP & Sistemas
