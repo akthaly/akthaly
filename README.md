@@ -1,16 +1,16 @@
-# ¡Hola soy Alejandro! 👋
+# ¡Hola soy Alejandro!
 
-### 👨‍🎓 Sobre mí
+### Sobre mí
 
-¡Qué tal! Soy estudiante de **Ingeniería en Ciencias y Sistemas** en la tricentenaria **Universidad de San Carlos de Guatemala (USAC)**.
+Soy estudiante de **Ingeniería en Ciencias y Sistemas** en la tricentenaria **Universidad de San Carlos de Guatemala (USAC)**.
 
 ---
 
-### 🛠️ Lenguajes que manejo
+### Lenguajes que manejo
 
-Aquí hay algunas de las herramientas, lenguajes y frameworks con los que disfruto construyendo cosas:
+Aquí hay algunas de las herramientas, lenguajes y frameworks con los que disfruto programar:
 
-#### 💻 Lenguajes de Programación
+#### Lenguajes de Programación
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -18,7 +18,7 @@ Aquí hay algunas de las herramientas, lenguajes y frameworks con los que disfru
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 </div>
 
-#### 🌐 Desarrollo Web & Frameworks (Backend & Frontend)
+#### Desarrollo Web & Frameworks (Backend & Frontend)
 <div align="center">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -28,7 +28,7 @@ Aquí hay algunas de las herramientas, lenguajes y frameworks con los que disfru
   <img src="https://img.shields.io/badge/astro-%230C111A.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
 </div>
 
-#### 🗄️ Bases de Datos, ERP & Sistemas
+#### Bases de Datos, ERP & Sistemas
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
@@ -38,7 +38,7 @@ Aquí hay algunas de las herramientas, lenguajes y frameworks con los que disfru
 
 ---
 
-### 📫 Mi correo: akthalyxz@gmail.com
+### Mi correo: akthalyxz@gmail.com
 
 
 <div align="center">
