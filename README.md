@@ -6,7 +6,7 @@ Me interesa el desarrollo backend, las bases de datos, los sistemas empresariale
 
 ---
 
-## 📊 Estadísticas
+## 📊 :D
 
 <div align="center">
 
@@ -18,7 +18,7 @@ Me interesa el desarrollo backend, las bases de datos, los sistemas empresariale
 
 ---
 
-## 💻 Tecnologías
+## 💻 :p
 
 **Lenguajes**
 
@@ -39,13 +39,11 @@ Linux · Odoo · Git
 ---
 
 
-## 📫 Contacto
+## 📧
 
-📧 [akthalyxz@gmail.com](mailto:akthalyxz@gmail.com)
+ [akthalyxz@gmail.com](mailto:akthalyxz@gmail.com)
 
 ---
-
-## 🐍 Actividad
 
 <p align="center">
   <picture>
