@@ -1,48 +1,59 @@
-# ¡Hola soy Alejandro!
+# Hola, soy Alejandro 👋
 
-### Sobre mí
+Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala (USAC).
 
-Soy estudiante de **Ingeniería en Ciencias y Sistemas** en la tricentenaria **Universidad de San Carlos de Guatemala (USAC)**.
+Me interesa el desarrollo backend, las bases de datos, los sistemas empresariales y la construcción de aplicaciones web escalables.
 
 ---
 
-### Lenguajes que manejo
+## 📊 Estadísticas
 
-Aquí hay algunas de las herramientas, lenguajes y frameworks con los que disfruto programar:
-
-#### Lenguajes de Programación
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-</div>
 
-#### Desarrollo Web & Frameworks (Backend & Frontend)
-<div align="center">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/astro-%230C111A.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&rank_icon=github"/>
 
-#### Bases de Datos, ERP & Sistemas
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Odoo-%23aab7c4.svg?style=for-the-badge&logo=odoo&logoColor=black" alt="Odoo"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true"/>
+
 </div>
 
 ---
 
-### Mi correo: akthalyxz@gmail.com
+## 💻 Tecnologías
 
+**Lenguajes**
 
-<div align="center">
-  <a href="mailto:akthalyxz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+Java · Python · JavaScript · C++
+
+**Frameworks**
+
+Django · Flask · React · Astro · Bootstrap · TailwindCSS
+
+**Bases de Datos**
+
+MySQL · Oracle
+
+**Otros**
+
+Linux · Odoo · Git
+
+---
+
+## 🚀 Algunos proyectos
+
+* Proyecto 1 — breve descripción.
+* Proyecto 2 — breve descripción.
+* Proyecto 3 — breve descripción.
+
+---
+
+## 📫 Contacto
+
+📧 [akthalyxz@gmail.com](mailto:akthalyxz@gmail.com)
+
+---
+
+## 🐍 Actividad
+
+![Snake animation](https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg)
+
 </div>
