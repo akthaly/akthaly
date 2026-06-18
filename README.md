@@ -47,6 +47,13 @@ Linux · Odoo · Git
 
 ## 🐍 Actividad
 
-![Snake animation](https://raw.githubusercontent.com/akthaly/akthaly/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AlejandroAnona/AlejandroAnona/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation"
+      src="https://raw.githubusercontent.com/AlejandroAnona/AlejandroAnona/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 </div>
