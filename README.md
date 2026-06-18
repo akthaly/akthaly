@@ -38,13 +38,6 @@ Linux · Odoo · Git
 
 ---
 
-## 🚀 Algunos proyectos
-
-* Proyecto 1 — breve descripción.
-* Proyecto 2 — breve descripción.
-* Proyecto 3 — breve descripción.
-
----
 
 ## 📫 Contacto
 
@@ -54,6 +47,6 @@ Linux · Odoo · Git
 
 ## 🐍 Actividad
 
-![Snake animation](https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/akthaly/akthaly/output/github-contribution-grid-snake.svg)
 
 </div>
